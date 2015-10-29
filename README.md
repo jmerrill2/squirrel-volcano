@@ -1,1 +1,1 @@
-Scripts belong here, i dunno what else to say.
+Scripts belong here, thats it.
